@@ -8,3 +8,5 @@ Notes:
 2- You need to install all the imported packages in the python file
 
 3- The python version i used was Python 3.6.7, so i can't guarantee i will work in other version
+
+Here's a video demostration so you don't need to download the file: https://youtu.be/y-xRGwU02ks
